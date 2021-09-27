@@ -1,0 +1,4 @@
+    1. Comment on the Whitepaper 2.0: The goal of PlatOn is very ambitious and the Whitepaper should reflect this ambition with more information like links to some of the advanced technology mentioned (how will new hardware, algorithms, etc impact the cost.
+    2. There some editing issues that I believe would clarify some of the statements in the Whitepaper. I've made notes, if you are interested.
+    3. I've also posted all of the above information on my Github account here: https://github.com/fabianaugustus/PlatOn/blob/main/README.md
+
